@@ -11,7 +11,7 @@ import { NavLink } from 'react-router-dom'
 class App extends Component  {
   render(){
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router baseName={process.env.PUBLIC_URL}>
       <div className="App">
         <nav>
         <NavLink exact to='/' activeClassName="currentPage">Home</NavLink>

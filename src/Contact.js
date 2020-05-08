@@ -5,7 +5,7 @@ function Contact(props) {
   return (
     <div>
       <h1>This is the contact page</h1>
-      <p>You can contact {human} person speronlakjkj.</p>
+      <p>You can contact {human} person.</p>
     </div>
   )
 }
