@@ -12,7 +12,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://taliahm.github.io/testingstuff",
+  "homepage": "https://taliahm.github.io/testingstuff/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
